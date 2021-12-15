@@ -36,10 +36,18 @@
   </div>
   <br>
   
-    ```
+  ```
   Python 3.8+
   - Tensorflow
   - Keras
   - skimage
   - CNNs
-    ```
+  ```
+  
+<br><br>
+<div align="center"> 
+    <p>
+    <img src="https://img.shields.io/badge/Improvements-moccasin?logo=Databricks&style=for-the-badge" height="55"/></p>
+ </div>
+ 
+#### ➤ Improvement for this model is being made with the use of generative adversarial networks which will be coming shortly.
