@@ -1,4 +1,4 @@
-# <div align="center"> Auto_Colorization
+# <div align="center"> Auto Colorization
 <p align='center'> 
  <img src="https://img.shields.io/badge/Auto Colorization--blue?style=for-the-badge"/>
  <br>
