@@ -35,10 +35,11 @@
   <img src="https://img.shields.io/badge/Tech%20Stack%20Used-chocolate?logo=Tesla&style=for-the-badge" /> 
   </div>
   <br>
+  
     ```
   Python 3.8+
   - Tensorflow
   - Keras
   - skimage
   - CNNs
-  ```
+    ```
